@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Saxena</h1>
 <h3 align="center">A seasoned web dev from India</h3>
 
-- 🔭 I’m currently working on [Snorkel Flow](https://snorkel.ai/)
-
 - 🌱 I’m currently learning **Next.Js and Solidity**
 
 - 💬 Ask me about **react, vanilla js, nextjs**
